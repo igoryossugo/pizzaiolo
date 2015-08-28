@@ -1,6 +1,5 @@
-argparse==1.2.1
 backports.ssl-match-hostname==3.4.0.2
-certifi==2015.04.28
+certifi==2015.4.28
 decorator==4.0.2
 ipdb==0.8.1
 ipython==4.0.0
@@ -8,7 +7,8 @@ ipython-genutils==0.1.0
 path.py==7.7.1
 pexpect==3.3
 pickleshare==0.5
+simple-settings==0.3.1
 simplegeneric==0.8.1
 tornado==4.2.1
 traitlets==4.0.0
-wsgiref==0.1.2
+wheel==0.24.0
